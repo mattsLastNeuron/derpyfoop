@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Matthew</h1>
 <h3 align="center">I'm a learning software and web developer from Barbados</h3>
 
+- 🎓 I am currently **a AAS computer studies student at Barbados Community College.**
+
 - 🌱 I’m currently learning **html, CSS, Java, JavaScript, SQL and Visual Basic**
 
 - 👨‍💻 All of my projects are available at [https://github.com/derpyfoop](https://github.com/derpyfoop)
